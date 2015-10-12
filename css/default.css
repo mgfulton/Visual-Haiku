@@ -1,0 +1,12 @@
+.main {
+	font-family: Helvetica;
+	color: #525252;
+	font-size: 4em;
+	line-height: 1em;
+	text-align: center;
+	width: 610px;
+	border: solid blue 0px;
+	margin: auto;
+	margin-top: 200px;
+	height: 410px;
+}
